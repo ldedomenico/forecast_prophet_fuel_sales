@@ -6,7 +6,7 @@ Este repositorio contiene el código y la documentación para el análisis y la 
 
 ---
 
-## 🔄 Transformaciones Realizadas
+## 🔄 Proceso de forecasting
 
 El notebook incluye las siguientes etapas principales:
 
