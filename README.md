@@ -49,7 +49,9 @@ El notebook incluye las siguientes etapas principales:
   - numpy
   - matplotlib
   - scikit-learn
-  - otras según el caso de uso
+  - Prophet
+  - Optuna
+  - Holidays
 
 ---
 
